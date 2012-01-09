@@ -1,0 +1,15 @@
+D:\luxman\代码\Luxman\DataAccess\bin\Debug\Nehnre.DataAccess.dll
+D:\luxman\代码\Luxman\DataAccess\bin\Debug\Nehnre.DataAccess.pdb
+D:\luxman\代码\Luxman\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\luxman\代码\Luxman\DataAccess\obj\Debug\Nehnre.DataAccess.dll
+D:\luxman\代码\Luxman\DataAccess\obj\Debug\Nehnre.DataAccess.pdb
+F:\myselfproject\luxman\代码\Luxman\DataAccess\bin\Debug\Nehnre.DataAccess.dll
+F:\myselfproject\luxman\代码\Luxman\DataAccess\bin\Debug\Nehnre.DataAccess.pdb
+F:\myselfproject\luxman\代码\Luxman\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\myselfproject\luxman\代码\Luxman\DataAccess\obj\Debug\Nehnre.DataAccess.dll
+F:\myselfproject\luxman\代码\Luxman\DataAccess\obj\Debug\Nehnre.DataAccess.pdb
+F:\myselfproject\luxman\luxman\代码\Luxman\DataAccess\bin\Debug\Nehnre.DataAccess.dll
+F:\myselfproject\luxman\luxman\代码\Luxman\DataAccess\bin\Debug\Nehnre.DataAccess.pdb
+F:\myselfproject\luxman\luxman\代码\Luxman\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\myselfproject\luxman\luxman\代码\Luxman\DataAccess\obj\Debug\Nehnre.DataAccess.dll
+F:\myselfproject\luxman\luxman\代码\Luxman\DataAccess\obj\Debug\Nehnre.DataAccess.pdb

@@ -1,0 +1,7 @@
+D:\luxman\代码\Luxman\Luxman\bin\Nehnre.Web.dll
+D:\luxman\代码\Luxman\Luxman\bin\Nehnre.Web.pdb
+D:\luxman\代码\Luxman\Luxman\bin\Nehnre.DataAccess.dll
+D:\luxman\代码\Luxman\Luxman\bin\Nehnre.DataAccess.pdb
+D:\luxman\代码\Luxman\Luxman\obj\Debug\ResolveAssemblyReference.cache
+D:\luxman\代码\Luxman\Luxman\obj\Debug\Nehnre.Web.dll
+D:\luxman\代码\Luxman\Luxman\obj\Debug\Nehnre.Web.pdb
